@@ -117,7 +117,7 @@ Although this is a portfolio project, the analysis demonstrates how insights der
 ![Orders & Payments](https://github.com/Ashakalavagunta/Amazon-sales-powerbi-dashboard/blob/9d797712fb31a90dcf908a3a8299d43ece454cd9/assets/orders_payment_analysis.png)
 
 ### Category Contribution Analysis
-![Category Contribution](screenshots/category_contribution.png)
+![Category Contribution](https://github.com/Ashakalavagunta/Amazon-sales-powerbi-dashboard/blob/acf834474d460b8189896225a538ee0d73e4e83b/assets/category_contribution.png)
 
 ---
 
