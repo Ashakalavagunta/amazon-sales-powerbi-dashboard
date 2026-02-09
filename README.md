@@ -141,5 +141,5 @@ It does not represent real Amazon internal data.
 **Asha Kalavagunta**  
 Aspiring Data Analyst  
 
-- 🔗 LinkedIn: https://linkedin.com/in/ashakalavagunta  
+- 🔗 LinkedIn: [https://linkedin.com/in/ashakalavagunta  ](https://www.linkedin.com/in/asha-kalavagunta-80031b223/)
 - 🔗 GitHub: https://github.com/Ashakalavagunta
